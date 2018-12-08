@@ -46,9 +46,10 @@ class App extends Component {
             <p>This year for Christmas,
               you get to pick your gift! Since we moved back to Florida,
               now we can finally spend time together again.
-              If you want to see a movie, go clothes shopping, or get ice cream - you name it. My treat!
+              If you want to go to Barnes {"&"} Noble to buy books, get hot coffee at Starbucks, or enjoy ice cream or froyo together - you name it. My treat!
               Can't wait for our special time together!
               </p>
+              <p>I will talk with your mom about a good day for our nephew {"&"} aunt special time! Merry Christmas and I love you! </p>
             <div className="signature">
               <div className="signature-column">
                 <img className="heart" src={heart} alt="emoji" />

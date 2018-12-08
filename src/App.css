@@ -111,7 +111,7 @@ and (max-device-width: 568px) {
     margin: 1rem;
   }
   .modal {
-    height: 98.5vh;
+    height: 96.5vh;
   }
   .App-header {
     padding-right: 1rem;
@@ -142,7 +142,7 @@ and (max-device-width: 667px) {
     margin: 1rem;
   }
   .modal {
-    height: 98.5vh;
+    height: 96.5vh;
   }
   .App-header {
     padding-right: 1rem;
@@ -173,7 +173,7 @@ and (max-device-width: 736px) {
     margin: 2rem;
   }
   .modal {
-    height: 98.5vh;
+    height: 96.5vh;
   }
   .App-header {
     padding-right: 1rem;
