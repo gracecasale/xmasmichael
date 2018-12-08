@@ -42,7 +42,7 @@ class App extends Component {
             <button className="x-button" onClick={this.handleModalClose}>X</button>
           </header>
           <div className="modal-content">
-            <h1 className="dear-line">Dear Gaby,</h1>
+            <h1 className="dear-line">Dear Michael,</h1>
             <p>This year for Christmas,
               you get to pick your gift! Since we moved back to Florida,
               now we can finally spend time together again.
@@ -59,7 +59,7 @@ class App extends Component {
         </Modal>
         <main className="App-main">
           <div className="" onClick={this.handleModalOpen}>
-            <h1 className="title">Merry Christmas Gaby!</h1>
+            <h1 className="title">Merry Christmas Michael!</h1>
             <img className="santa" src={santa} alt="emoji" />
           </div>
         </main>
