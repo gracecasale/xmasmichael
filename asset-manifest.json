@@ -1,13 +1,15 @@
 {
-  "main.css": "/xmasmichael/static/css/main.1ed5ce66.chunk.css",
-  "main.js": "/xmasmichael/static/js/main.ffed6a6a.chunk.js",
-  "main.js.map": "/xmasmichael/static/js/main.ffed6a6a.chunk.js.map",
-  "static/js/1.324b6cf3.chunk.js": "/xmasmichael/static/js/1.324b6cf3.chunk.js",
-  "static/js/1.324b6cf3.chunk.js.map": "/xmasmichael/static/js/1.324b6cf3.chunk.js.map",
+  "main.css": "/xmasmichael/static/css/main.d78f3a08.chunk.css",
+  "main.js": "/xmasmichael/static/js/main.4ac187eb.chunk.js",
+  "main.js.map": "/xmasmichael/static/js/main.4ac187eb.chunk.js.map",
+  "static/js/1.1f85de5a.chunk.js": "/xmasmichael/static/js/1.1f85de5a.chunk.js",
+  "static/js/1.1f85de5a.chunk.js.map": "/xmasmichael/static/js/1.1f85de5a.chunk.js.map",
   "runtime~main.js": "/xmasmichael/static/js/runtime~main.f489b183.js",
   "runtime~main.js.map": "/xmasmichael/static/js/runtime~main.f489b183.js.map",
-  "static/css/main.1ed5ce66.chunk.css.map": "/xmasmichael/static/css/main.1ed5ce66.chunk.css.map",
+  "static/css/main.d78f3a08.chunk.css.map": "/xmasmichael/static/css/main.d78f3a08.chunk.css.map",
+  "static/media/santa.png": "/xmasmichael/static/media/santa.c05ef5a0.png",
+  "static/media/heart.png": "/xmasmichael/static/media/heart.4f24e789.png",
   "index.html": "/xmasmichael/index.html",
-  "precache-manifest.7aff6a4950c972cd7763e2e9278d8595.js": "/xmasmichael/precache-manifest.7aff6a4950c972cd7763e2e9278d8595.js",
+  "precache-manifest.4c8c304f49bb8e7dc47fb3be23a8fc04.js": "/xmasmichael/precache-manifest.4c8c304f49bb8e7dc47fb3be23a8fc04.js",
   "service-worker.js": "/xmasmichael/service-worker.js"
 }
